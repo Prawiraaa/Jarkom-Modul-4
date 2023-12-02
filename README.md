@@ -19,5 +19,8 @@
 - Routing kurang efisien
 - Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
 
-### Topologi VLSM
+### Topologi GNS3 - VLSM
 ![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)
+
+### Topologi CPT - CIDR
+![Topology](https://cdn.discordapp.com/attachments/1173915504872796160/1180450449640398848/Fuck_this_bullshit_AAAAAAAAAAAA.png?ex=657d7726&is=656b0226&hm=1aa3aa4dce5f78a96c1fb7a6847503f4ac9adc29c0cf9d155c06b421f8644345&)
