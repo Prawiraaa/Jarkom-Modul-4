@@ -19,4 +19,5 @@
 - Routing kurang efisien
 - Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
 
-### Topologi
+### Topologi VLSM
+![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)
