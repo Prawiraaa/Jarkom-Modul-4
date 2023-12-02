@@ -20,7 +20,32 @@
 - Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
 
 ### Topologi GNS3 - VLSM
-![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)
+![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)<br>
+
+## Subnet Table for VLSM
+| Subnet | Host IP | Netmask |
+|--------|---------|---------|
+| A1     | 1023    | /21     |
+| A2     | 1001    | /22     |
+| A3     | 6       | /29     |
+| A4     | 512     | /22     |
+| A5     | 31      | /26     |
+| A6     | 2       | /30     |
+| A7     | 3       | /29     |
+| A8     | 2       | /30     |
+| A9     | 2       | /30     |
+| A10    | 25      | /27     |
+| A11    | 2       | /30     |
+| A12    | 2       | /30     |
+| A13    | 255     | /23     |
+| A14    | 2       | /30     |
+| A15    | 2       | /30     |
+| A16    | 2       | /30     |
+| A17    | 2       | /30     |
+| A18    | 127     | /25     |
+| A19    | 1001    | /22     |
+| A20    | 251     | /24     |
+| A21    | 2       | /30     |
 
 ### Topologi CPT - CIDR
 ![Topology](https://cdn.discordapp.com/attachments/1173915504872796160/1180450449640398848/Fuck_this_bullshit_AAAAAAAAAAAA.png?ex=657d7726&is=656b0226&hm=1aa3aa4dce5f78a96c1fb7a6847503f4ac9adc29c0cf9d155c06b421f8644345&)
