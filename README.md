@@ -2,7 +2,7 @@
 | Name                              | NRP        |
 |-----------------------------------|------------|
 |I Putu Arya Prawira Wiwekananda    | 5025211065 |
-|Hanifi Abrar Setiawan              | 5025211261 |
+|Hanifi Abrar Setiawan              | 5025211066 |
 |Muhammad Fadhlan Ashila Harastha   | 5025211068 |
 
 ## Question
