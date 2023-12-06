@@ -1,4 +1,4 @@
-
+![image](https://github.com/Prawiraaa/Jarkom-Modul-4/assets/115058216/e991322c-1665-4ae0-a570-74b64afa11a1)
 | Name                              | NRP        |
 |-----------------------------------|------------|
 |I Putu Arya Prawira Wiwekananda    | 5025211065 |
@@ -68,3 +68,10 @@ Sesuai dengan table, netmask yang digunakan adalah /19 kemudian diturunkan terus
 
 Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 maka dibutuhkan banyaknya IP sehingga dalam perhitungan membutuhkan tambahan prefix sehingga menjadi 10.79 sampai 10.82
 
+## IP Configurating
+
+### A1 
+#### Aura
+![AuraA!](https://cdn.discordapp.com/attachments/945123026410831952/1181953538855800902/image.png?ex=6582ef03&is=65707a03&hm=d5bc7c50d085ff6e3c0788603ef955bf2374508bfc5f5221baeeebae4d39fb4f&)
+#### Frieren
+![FrierenA1](https://cdn.discordapp.com/attachments/945123026410831952/1181953842254979123/image.png?ex=6582ef4b&is=65707a4b&hm=42dfd5c151467adc0336d1695342d02600451e412e76028d3719ce78b4bb2db8&)
