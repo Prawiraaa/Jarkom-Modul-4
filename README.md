@@ -93,8 +93,23 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 ![RoutAura2](https://cdn.discordapp.com/attachments/945123026410831952/1181955439689220196/image.png?ex=6582f0c8&is=65707bc8&hm=2e067cb8abc56727bd9e575cacd27744e01b7da4994e0910476bbd49e7898bd5&)
 
 ### Frieren
+![RoutFrieren](https://cdn.discordapp.com/attachments/945123026410831952/1181958085825286264/image.png?ex=6582f33f&is=65707e3f&hm=37abb63f14f2a3261f65d10788435c468b6569a3ab83c0b2abcf3025b8834ac4&)
 ### Denken
-
+![RoutDenken](https://cdn.discordapp.com/attachments/945123026410831952/1181958312011501578/image.png?ex=6582f375&is=65707e75&hm=c4824ed3520007464f93f93987a1d7bef89239d28ee19722b1de9c9559edcac6&)
+### Eisen
+![RoutEisen](https://cdn.discordapp.com/attachments/945123026410831952/1181958471562821702/image.png?ex=6582f39b&is=65707e9b&hm=c8f73391b3f68c12d8e529e35e4a403b85e036495abdfad9fd945bf80c94437f&)
+### Flamme
+![RoutAura](https://cdn.discordapp.com/attachments/945123026410831952/1181958612055248997/image.png?ex=6582f3bc&is=65707ebc&hm=21b7799c4cdf351c15cb3c9dcfa7b699ab00fbefbb0c4db1d0eb20ad5609ed27&)
+### Fern
+![RoutFern](https://cdn.discordapp.com/attachments/945123026410831952/1181959042151747694/image.png?ex=6582f423&is=65707f23&hm=ebe2716d7b685eedb30ce788f733a063aa86a90e3079d89745de641e5db818b9&)
+### Himmel
+![RoutHimmel](https://cdn.discordapp.com/attachments/945123026410831952/1181959177887809670/image.png?ex=6582f443&is=65707f43&hm=c2500272c769b807aaf8d6577180304f2de05253dd671a14662a9acf43ee5769&)
+### Linie
+![RoutLinnie](https://cdn.discordapp.com/attachments/945123026410831952/1181959491915370586/image.png?ex=6582f48e&is=65707f8e&hm=684e7213878666c92f6208e0a3cb0539d05bead3e3304c287f8c1b13503594a1&)
+### Lawine
+![RoutLawine](https://cdn.discordapp.com/attachments/945123026410831952/1181959599507644436/image.png?ex=6582f4a8&is=65707fa8&hm=838acc91e15aa5f0af9e711f1708bb85ce56a113d9e4f780a3cebe7c9e7a4b30&)
+### Heiter
+![RoutHeiter](https://cdn.discordapp.com/attachments/945123026410831952/1181959718458118164/image.png?ex=6582f4c4&is=65707fc4&hm=bf768e15c834ca08c83a558841dbb6a7defbcde28791fb9f1341da9f6854a802&)
 ## Testing
 
 Ping RohrRoad (10.80.240.2) Dari GranzChannel (10.81.32.2)
