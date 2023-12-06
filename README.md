@@ -62,4 +62,5 @@ Sesuai dengan table, netmask yang digunakan adalah /19 kemudian diturunkan terus
 
 ## Subnet Table for CIDR
 ![Table](https://cdn.discordapp.com/attachments/945123026410831952/1181951005584265316/image.png?ex=6582eca7&is=657077a7&hm=dc04841cdf0716e5e449bcd76cfa8ffc19d8f6522bc77b54cc141d0a7b5f269d&)
+
 Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 maka dibutuhkan banyaknya IP sehingga dalam perhitungan membutuhkan tambahan prefix sehingga menjadi 10.79 sampai 10.82
