@@ -1,4 +1,3 @@
-![image](https://github.com/Prawiraaa/Jarkom-Modul-4/assets/115058216/e991322c-1665-4ae0-a570-74b64afa11a1)
 | Name                              | NRP        |
 |-----------------------------------|------------|
 |I Putu Arya Prawira Wiwekananda    | 5025211065 |
