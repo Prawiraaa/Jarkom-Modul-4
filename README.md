@@ -88,3 +88,10 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 ### A8
 ### A9
 
+## Routing 
+### Aura
+![RoutAura](https://cdn.discordapp.com/attachments/945123026410831952/1181955286035087491/image.png?ex=6582f0a3&is=65707ba3&hm=4797b4df6847b1549a6942e8a36c42b6c3ce1b02326f9b3e54c901b8d1465445&)
+![RoutAura2](https://cdn.discordapp.com/attachments/945123026410831952/1181955439689220196/image.png?ex=6582f0c8&is=65707bc8&hm=2e067cb8abc56727bd9e575cacd27744e01b7da4994e0910476bbd49e7898bd5&)
+
+### Frieren
+### Denken
