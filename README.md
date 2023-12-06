@@ -94,3 +94,8 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 
 ### Frieren
 ### Denken
+
+## Testing
+
+Ping RohrRoad (10.80.240.2) Dari GranzChannel (10.81.32.2)
+![Pingtest1](https://cdn.discordapp.com/attachments/945123026410831952/1181956818709262417/image.png?ex=6582f211&is=65707d11&hm=83eb36a370c0909ebc1076aa7a05340621b1d73009f17fc771b7799991beee70&)
