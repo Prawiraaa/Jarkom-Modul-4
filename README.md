@@ -80,7 +80,12 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 #### Denken
 ![DenkenA2](https://cdn.discordapp.com/attachments/945123026410831952/1181954772715192482/image.png?ex=6582f029&is=65707b29&hm=8bd111939cf12e04a2efc176454757a5938e8ed8175174520507f57f977b59bc&)
 ### A3
+#### Aura
+![AuraA3](https://cdn.discordapp.com/attachments/945123026410831952/1181961313849720852/image.png?ex=6582f641&is=65708141&hm=21bc6131e1b2a5e1dd284add069dec6157f3d8ba89962111d9c7982c88295340&)
+#### Eisen
+![EisenA3](https://cdn.discordapp.com/attachments/945123026410831952/1181961521765560330/image.png?ex=6582f672&is=65708172&hm=1b7a37eeb1f3eb44986cc4908c5cfa4b776a1d705fc454fed2b3a8e7219cc0f0&)
 ### A4
+
 ### A5
 ### A6
 ### A7
@@ -98,6 +103,8 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 ![RoutDenken](https://cdn.discordapp.com/attachments/945123026410831952/1181958312011501578/image.png?ex=6582f375&is=65707e75&hm=c4824ed3520007464f93f93987a1d7bef89239d28ee19722b1de9c9559edcac6&)
 ### Eisen
 ![RoutEisen](https://cdn.discordapp.com/attachments/945123026410831952/1181958471562821702/image.png?ex=6582f39b&is=65707e9b&hm=c8f73391b3f68c12d8e529e35e4a403b85e036495abdfad9fd945bf80c94437f&)
+### Lugner
+![RoutLugner](https://cdn.discordapp.com/attachments/945123026410831952/1181961827282866298/image.png?ex=6582f6bb&is=657081bb&hm=1fcc8a867e77fde36be6702f26dfea5cecca97afff0bd953c3693e998b057a4b&)
 ### Flamme
 ![RoutAura](https://cdn.discordapp.com/attachments/945123026410831952/1181958612055248997/image.png?ex=6582f3bc&is=65707ebc&hm=21b7799c4cdf351c15cb3c9dcfa7b699ab00fbefbb0c4db1d0eb20ad5609ed27&)
 ### Fern
