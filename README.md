@@ -74,22 +74,41 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 ![AuraA!](https://cdn.discordapp.com/attachments/945123026410831952/1181953538855800902/image.png?ex=6582ef03&is=65707a03&hm=d5bc7c50d085ff6e3c0788603ef955bf2374508bfc5f5221baeeebae4d39fb4f&)
 #### Frieren
 ![FrierenA1](https://cdn.discordapp.com/attachments/945123026410831952/1181953842254979123/image.png?ex=6582ef4b&is=65707a4b&hm=42dfd5c151467adc0336d1695342d02600451e412e76028d3719ce78b4bb2db8&)
+
 ### A2
 #### Aura
 ![AuraA2](https://cdn.discordapp.com/attachments/945123026410831952/1181954505416376360/image.png?ex=6582efe9&is=65707ae9&hm=575fe185f812466e018565f4f390499fb253b5f074fac8d78924e3b52e6062c6&)
 #### Denken
 ![DenkenA2](https://cdn.discordapp.com/attachments/945123026410831952/1181954772715192482/image.png?ex=6582f029&is=65707b29&hm=8bd111939cf12e04a2efc176454757a5938e8ed8175174520507f57f977b59bc&)
+
 ### A3
 #### Aura
 ![AuraA3](https://cdn.discordapp.com/attachments/945123026410831952/1181961313849720852/image.png?ex=6582f641&is=65708141&hm=21bc6131e1b2a5e1dd284add069dec6157f3d8ba89962111d9c7982c88295340&)
 #### Eisen
 ![EisenA3](https://cdn.discordapp.com/attachments/945123026410831952/1181961521765560330/image.png?ex=6582f672&is=65708172&hm=1b7a37eeb1f3eb44986cc4908c5cfa4b776a1d705fc454fed2b3a8e7219cc0f0&)
+
 ### A4
+#### Eisen
+![EisenA4](https://cdn.discordapp.com/attachments/945123026410831952/1181962656186376345/image.png?ex=6582f781&is=65708281&hm=9ded3e3115a760bfe51c6e22d3cae0877e7ad9c59f7efe801fc3a5727cf08bbd&)
+#### Lugner
+![LugnerA4](https://cdn.discordapp.com/attachments/945123026410831952/1181962898260623380/image.png?ex=6582f7ba&is=657082ba&hm=5e9273f3a23e955d83b310038350702d7cbb20ef5621fe1bedc4256464e952a2&)
 
 ### A5
+#### Eisen
+![EisenA5](https://cdn.discordapp.com/attachments/945123026410831952/1181963173163704412/image.png?ex=6582f7fc&is=657082fc&hm=a327c3adf9dd49f1e897d833c260d97866d86af6e275efe4028e980d999b413e&)
+#### Linie
+![LinieA5](https://cdn.discordapp.com/attachments/945123026410831952/1181963369637486682/image.png?ex=6582f82b&is=6570832b&hm=05360d392182fa8d35468fea0e62e186648495e454669a00acfd544229b0dfc0&)
+
 ### A6
+#### Linie
+![LinieA6](https://cdn.discordapp.com/attachments/945123026410831952/1181963619194384404/image.png?ex=6582f866&is=65708366&hm=bd10846ab45cb0cf532eded0fc112d89d2693feeaedebe02fbd4ab30028e6bc5&)
+#### Lawine
+![LawineA6](https://cdn.discordapp.com/attachments/945123026410831952/1181964002495045683/image.png?ex=6582f8c2&is=657083c2&hm=dda1f5a31b80953611f8d1d16f59f6d8a1a681bf7fb7060f37d2f0560bb82e8f&)
+
 ### A7
+
 ### A8
+
 ### A9
 
 ## Routing 
