@@ -111,6 +111,7 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 
 ### A9
 
+( belum di input semua gambar dari masing-masing subnet karena terlalu banyak gambar :p )
 ## Routing 
 ### Aura
 ![RoutAura](https://cdn.discordapp.com/attachments/945123026410831952/1181955286035087491/image.png?ex=6582f0a3&is=65707ba3&hm=4797b4df6847b1549a6942e8a36c42b6c3ce1b02326f9b3e54c901b8d1465445&)
