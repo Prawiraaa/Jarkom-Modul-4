@@ -20,8 +20,6 @@
 - Tidak bisa menjelaskan cara perhitungan VLSM dan CIDR
 
 ### Topologi GNS3 - VLSM
-![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)<br>
-
 ## Subnet Table for VLSM
 | Subnet | Host IP | Netmask |
 |--------|---------|---------|
@@ -46,6 +44,15 @@
 | A19    | 1001    | /22     |
 | A20    | 251     | /24     |
 | A21    | 2       | /30     |
+
+![Topology](https://cdn.discordapp.com/attachments/827014097219878982/1180448733805154405/image.png?ex=657d758d&is=656b008d&hm=7f59ba40dc9a7f4e97bafa14764d23cfb7d19f850992205831560e9353074ac5&)<br>
+
+![Table](https://cdn.discordapp.com/attachments/1173915504872796160/1181950690961141761/image.png?ex=6582ec5c&is=6570775c&hm=c3cfee7e4c5bc8869fc8f09cbb3c7d2deb2c98fbf31af12dae8215cc8be93401&)<br>
+Sesuai dengan table, netmask yang digunakan adalah /19 kemudian diturunkan terus hingga /30. Perlu diketahui jumlah node yang kosong harus sesuai dengan jumlah node yang ada per netmask.
+
+### Tree
+![treevlsm](https://cdn.discordapp.com/attachments/1173915504872796160/1180527123946012672/image.png?ex=657dbe8f&is=656b498f&hm=a2b9da7bd905317aa5c367ced25a5b59ea9fbf543ac8e097336ed58ef279b8a0&)
+
 
 ### Topologi CPT - CIDR
 ![Topology](https://cdn.discordapp.com/attachments/945123026410831952/1181950106480676985/FUCK_THIS_FUCKING_BULLSHIIIIIT_AAAAAAAAAAAAAAAA.png?ex=6582ebd0&is=657076d0&hm=df3b1595011832a472a0992f6044f4679efdf64c0cae95f5ab3a4e7dfc78ad52&)
