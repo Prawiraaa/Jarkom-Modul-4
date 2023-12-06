@@ -1,4 +1,4 @@
-# Jarkom-Modul-4
+![image](https://github.com/Prawiraaa/Jarkom-Modul-4/assets/115058216/18da77c3-283b-4084-8965-f0a4986c1143)# Jarkom-Modul-4
 | Name                              | NRP        |
 |-----------------------------------|------------|
 |I Putu Arya Prawira Wiwekananda    | 5025211065 |
@@ -48,7 +48,7 @@
 | A21    | 2       | /30     |
 
 ### Topologi CPT - CIDR
-![Topology](https://cdn.discordapp.com/attachments/1173915504872796160/1180450449640398848/Fuck_this_bullshit_AAAAAAAAAAAA.png?ex=657d7726&is=656b0226&hm=1aa3aa4dce5f78a96c1fb7a6847503f4ac9adc29c0cf9d155c06b421f8644345&)
+![Topology](https://cdn.discordapp.com/attachments/945123026410831952/1181950106480676985/FUCK_THIS_FUCKING_BULLSHIIIIIT_AAAAAAAAAAAAAAAA.png?ex=6582ebd0&is=657076d0&hm=df3b1595011832a472a0992f6044f4679efdf64c0cae95f5ab3a4e7dfc78ad52&)
 
 ### Tree CPT - CIDR
 ![Tree](https://cdn.discordapp.com/attachments/945123026410831952/1181950106912694383/tree_fix.png?ex=6582ebd1&is=657076d1&hm=59d265c3ce3926f2d62bbc97d4d54e85dc33ae9550cc31970b451d9b5249c206&)
