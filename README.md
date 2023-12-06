@@ -53,14 +53,14 @@ Sesuai dengan table, netmask yang digunakan adalah /19 kemudian diturunkan terus
 ### Tree
 ![treevlsm](https://cdn.discordapp.com/attachments/1173915504872796160/1180527123946012672/image.png?ex=657dbe8f&is=656b498f&hm=a2b9da7bd905317aa5c367ced25a5b59ea9fbf543ac8e097336ed58ef279b8a0&)
 
-
+## CPT - CIDR
 ### Topologi CPT - CIDR
 ![Topology](https://cdn.discordapp.com/attachments/945123026410831952/1181950106480676985/FUCK_THIS_FUCKING_BULLSHIIIIIT_AAAAAAAAAAAAAAAA.png?ex=6582ebd0&is=657076d0&hm=df3b1595011832a472a0992f6044f4679efdf64c0cae95f5ab3a4e7dfc78ad52&)
 
 ### Tree CPT - CIDR
 ![Tree](https://cdn.discordapp.com/attachments/945123026410831952/1181950106912694383/tree_fix.png?ex=6582ebd1&is=657076d1&hm=59d265c3ce3926f2d62bbc97d4d54e85dc33ae9550cc31970b451d9b5249c206&)
 
-## Subnet Table for CIDR
+### Subnet Table for CIDR
 ![Table](https://cdn.discordapp.com/attachments/945123026410831952/1181951005584265316/image.png?ex=6582eca7&is=657077a7&hm=dc04841cdf0716e5e449bcd76cfa8ffc19d8f6522bc77b54cc141d0a7b5f269d&)
 
 Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 maka dibutuhkan banyaknya IP sehingga dalam perhitungan membutuhkan tambahan prefix sehingga menjadi 10.79 sampai 10.82
