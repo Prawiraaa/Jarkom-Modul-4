@@ -75,3 +75,16 @@ Disclaimer! Prefix IP kelompok adalah 10.79, karena mask terakhir adalah /14 mak
 ![AuraA!](https://cdn.discordapp.com/attachments/945123026410831952/1181953538855800902/image.png?ex=6582ef03&is=65707a03&hm=d5bc7c50d085ff6e3c0788603ef955bf2374508bfc5f5221baeeebae4d39fb4f&)
 #### Frieren
 ![FrierenA1](https://cdn.discordapp.com/attachments/945123026410831952/1181953842254979123/image.png?ex=6582ef4b&is=65707a4b&hm=42dfd5c151467adc0336d1695342d02600451e412e76028d3719ce78b4bb2db8&)
+### A2
+#### Aura
+![AuraA2](https://cdn.discordapp.com/attachments/945123026410831952/1181954505416376360/image.png?ex=6582efe9&is=65707ae9&hm=575fe185f812466e018565f4f390499fb253b5f074fac8d78924e3b52e6062c6&)
+#### Denken
+![DenkenA2](https://cdn.discordapp.com/attachments/945123026410831952/1181954772715192482/image.png?ex=6582f029&is=65707b29&hm=8bd111939cf12e04a2efc176454757a5938e8ed8175174520507f57f977b59bc&)
+### A3
+### A4
+### A5
+### A6
+### A7
+### A8
+### A9
+
