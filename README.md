@@ -49,3 +49,6 @@
 
 ### Topologi CPT - CIDR
 ![Topology](https://cdn.discordapp.com/attachments/1173915504872796160/1180450449640398848/Fuck_this_bullshit_AAAAAAAAAAAA.png?ex=657d7726&is=656b0226&hm=1aa3aa4dce5f78a96c1fb7a6847503f4ac9adc29c0cf9d155c06b421f8644345&)
+
+### Tree CPT - CIDR
+![Tree](https://cdn.discordapp.com/attachments/945123026410831952/1181950106912694383/tree_fix.png?ex=6582ebd1&is=657076d1&hm=59d265c3ce3926f2d62bbc97d4d54e85dc33ae9550cc31970b451d9b5249c206&)
